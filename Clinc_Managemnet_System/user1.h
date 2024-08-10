@@ -1,0 +1,2 @@
+
+void User(Clinic *clinic);

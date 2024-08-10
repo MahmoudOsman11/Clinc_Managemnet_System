@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1723028908 source:c:\vscode\iti_embedded_systems_avr\projects\c_project\main.c
+	"admin.h"
+
+1722972259 c:\vscode\iti_embedded_systems_avr\projects\c_project\admin.h
+	<stdio.h>
+	<unistd.h>
+
+1723028936 source:c:\vscode\iti_embedded_systems_avr\projects\c_project\user.c
+	"user.h"
+
+1722970804 c:\vscode\iti_embedded_systems_avr\projects\c_project\user.h
+
+1723028755 source:c:\vscode\iti_embedded_systems_avr\projects\c_project\admin.c
+	"admin.h"
+	<stdio.h>
+
+1723029844 source:c:\iti embedded data\c_project\clinc_managemnet_system\admin.c
+	"C:\ITI Embedded Data\C_Project\Clinc_Managemnet_System\admin.h"
+	<stdio.h>
+
+1723029714 c:\iti embedded data\c_project\clinc_managemnet_system\admin.h
+	<stdio.h>
+	<unistd.h>
+
+1723297459 source:c:\iti embedded data\c_project\clinc_managemnet_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin1.h"
+	"user1.h"
+
+1723029844 c:\iti embedded data\c_project\clinc_managemnet_system\admin.c
+	"C:\ITI Embedded Data\C_Project\Clinc_Managemnet_System\admin.h"
+	<stdio.h>
+
+1723297413 source:c:\iti embedded data\c_project\clinc_managemnet_system\admin1.c
+	"admin1.h"
+
+1723297083 c:\iti embedded data\c_project\clinc_managemnet_system\admin1.h
+
+1723296047 source:c:\iti embedded data\c_project\clinc_managemnet_system\user1.c
+	"admin1.h"
+
+1723295874 c:\iti embedded data\c_project\clinc_managemnet_system\user1.h
+
