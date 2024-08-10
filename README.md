@@ -5,7 +5,8 @@ The system asks for password, the default password is 1234. The system allows 3 
 1.	 Add new patient record:
 To add a new patient, the user shall admin shall enter these basic information: name, age, gender and ID. The ID shall be unique for the user, if the entered ID is already exists, the system shall reject the entry.
 2.	 Edit patient record
-By entering patient ID the system shall checks if the ID exists, the system shall allow the user to edit the patient information. If not, the system shall display incorrect ID message.
+By entering patient ID the system shall checks if the ID exists, the system shall allow the user to edit the patient information. If not, the system shall display incorrect ID message.[Clinc Managemnet System.docx](https://github.com/user-attachments/files/16569716/Clinc.Managemnet.System.docx)
+
 3.	 Reserve a slot with the doctor
 By default there are 5 available slots, 2pm to 2:30pm, 2:30pm to 3pm, 3pm to 3:30pm, 4pm to 4:30pm and 4:30pm to 5pm. Upon opening of this window, the system shall display the available slots. The admin shall enter the patient ID and the desired slot. The reserved slot shall not appear again in the next patient reservation.
 4.	 Cancel reservation.
